@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "31496176100",
+    "project_id": "cryptic-net-130714"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31496176100:android:9ce0e467a7a22909",
+        "android_client_info": {
+          "package_name": "com.example.jeffalmeida.mapviewwithroundedcorners"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXu2DaIruzf_w6h1D1kId8u8uYJ_BCqRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31496176100:android:e7cc9591d79f3e3c",
+        "android_client_info": {
+          "package_name": "com.example.jeffalmeida.mapviewwithcorners"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXu2DaIruzf_w6h1D1kId8u8uYJ_BCqRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-71163727-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
